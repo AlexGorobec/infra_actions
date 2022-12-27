@@ -13,5 +13,5 @@ jobs:
       run: echo Hellow, world!
     - name: Run a multi-line script
       run: |
-        echo Add otheractions to build,
-        echo test, anddeploy your project/
+        echo Add other actions to build,
+        echo test, and deploy your project.
